@@ -1,0 +1,117 @@
+<mxfile host="Electron" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/26.0.15 Chrome/132.0.6834.196 Electron/34.2.0 Safari/537.36" version="26.0.15">
+  <diagram name="Page-1" id="MhvrcW5icZGcxs4tRUkb">
+    <mxGraphModel dx="2462" dy="1305" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="WTSOabMXCq9_qRqbXYAW-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="WTSOabMXCq9_qRqbXYAW-1" target="WTSOabMXCq9_qRqbXYAW-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="WTSOabMXCq9_qRqbXYAW-1" value="&lt;span style=&quot;color: oklab(0.89908 -0.00192907 -0.0048306); font-family: &amp;quot;gg mono&amp;quot;, &amp;quot;Source Code Pro&amp;quot;, Consolas, &amp;quot;Andale Mono WT&amp;quot;, &amp;quot;Andale Mono&amp;quot;, &amp;quot;Lucida Console&amp;quot;, &amp;quot;Lucida Sans Typewriter&amp;quot;, &amp;quot;DejaVu Sans Mono&amp;quot;, &amp;quot;Bitstream Vera Sans Mono&amp;quot;, &amp;quot;Liberation Mono&amp;quot;, &amp;quot;Nimbus Mono L&amp;quot;, Monaco, &amp;quot;Courier New&amp;quot;, Courier, monospace; font-size: 14px; text-align: left; white-space: pre; background-color: oklab(0.296709 -0.000735492 -0.00772537);&quot;&gt;Grade Calculator&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;" vertex="1" parent="1">
+          <mxGeometry x="478" y="70" width="175" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="WTSOabMXCq9_qRqbXYAW-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="WTSOabMXCq9_qRqbXYAW-2" target="WTSOabMXCq9_qRqbXYAW-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="WTSOabMXCq9_qRqbXYAW-2" value="Enter your score &amp;gt;&amp;gt;&amp;gt;&amp;nbsp;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="443" y="210" width="244" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="WTSOabMXCq9_qRqbXYAW-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="WTSOabMXCq9_qRqbXYAW-5" target="WTSOabMXCq9_qRqbXYAW-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="WTSOabMXCq9_qRqbXYAW-5" value="score" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="505.5" y="340" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="WTSOabMXCq9_qRqbXYAW-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="WTSOabMXCq9_qRqbXYAW-8" target="WTSOabMXCq9_qRqbXYAW-11">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="760" y="500" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="WTSOabMXCq9_qRqbXYAW-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="WTSOabMXCq9_qRqbXYAW-8" target="WTSOabMXCq9_qRqbXYAW-13">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="355" y="500" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="WTSOabMXCq9_qRqbXYAW-8" value="score &amp;gt;= 90" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="460" y="460" width="210" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="WTSOabMXCq9_qRqbXYAW-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="WTSOabMXCq9_qRqbXYAW-11" target="WTSOabMXCq9_qRqbXYAW-22">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="760" y="940" />
+              <mxPoint x="425" y="940" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="WTSOabMXCq9_qRqbXYAW-11" value="Your grade is A" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="670" y="590" width="180" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="WTSOabMXCq9_qRqbXYAW-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="WTSOabMXCq9_qRqbXYAW-13" target="WTSOabMXCq9_qRqbXYAW-15">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="550" y="610" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="WTSOabMXCq9_qRqbXYAW-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="WTSOabMXCq9_qRqbXYAW-13" target="WTSOabMXCq9_qRqbXYAW-17">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="145" y="610" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="WTSOabMXCq9_qRqbXYAW-13" value="score &amp;gt;= 80&amp;nbsp;&lt;div&gt;and&amp;nbsp;&lt;/div&gt;&lt;div&gt;score &amp;lt;= 90&amp;nbsp;&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="250" y="570" width="210" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="WTSOabMXCq9_qRqbXYAW-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="WTSOabMXCq9_qRqbXYAW-15" target="WTSOabMXCq9_qRqbXYAW-22">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="550" y="940" />
+              <mxPoint x="425" y="940" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="WTSOabMXCq9_qRqbXYAW-15" value="Your grade is B" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="460" y="700" width="180" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="WTSOabMXCq9_qRqbXYAW-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="WTSOabMXCq9_qRqbXYAW-17" target="WTSOabMXCq9_qRqbXYAW-19">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="340" y="730" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="WTSOabMXCq9_qRqbXYAW-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="WTSOabMXCq9_qRqbXYAW-17" target="WTSOabMXCq9_qRqbXYAW-24">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="WTSOabMXCq9_qRqbXYAW-17" value="score &amp;gt;= 70&amp;nbsp;&lt;div&gt;and&amp;nbsp;&lt;/div&gt;&lt;div&gt;score &amp;lt;= 79&amp;nbsp;&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="40" y="690" width="210" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="WTSOabMXCq9_qRqbXYAW-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="WTSOabMXCq9_qRqbXYAW-19" target="WTSOabMXCq9_qRqbXYAW-22">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="WTSOabMXCq9_qRqbXYAW-19" value="Your grade is B" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="250" y="820" width="180" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="WTSOabMXCq9_qRqbXYAW-22" value="END" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;" vertex="1" parent="1">
+          <mxGeometry x="365" y="1000" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="WTSOabMXCq9_qRqbXYAW-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="WTSOabMXCq9_qRqbXYAW-24" target="WTSOabMXCq9_qRqbXYAW-22">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="145" y="990" />
+              <mxPoint x="425" y="990" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="WTSOabMXCq9_qRqbXYAW-24" value="Your grade is F" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="55" y="910" width="180" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
